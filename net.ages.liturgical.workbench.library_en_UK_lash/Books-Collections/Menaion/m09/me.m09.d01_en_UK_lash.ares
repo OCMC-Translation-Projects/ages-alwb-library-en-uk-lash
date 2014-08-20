@@ -1,7 +1,7 @@
 A_Resource_Whose_Name = me.m09.d01_en_UK_lash 
 
-meHO.month.text = ""
-meHO.dayshours.text = ""
+meHO.Month.text = ""
+meHO.DaysHours.text = ""
 
 meDate.text = "September 1"
 meCommemoration.text = "Beginning of the Indiction, that is of the New Year; and commemoration of our Venerable Father Symeon the Stylite and Archimandrite; the assembly of the most holy Mother of God of the Miasini; commemoration of the Holy Martyr Aithalas; of the forty Holy Women and of the deacon Ammoun, their teacher; of the Holy Martyrs Kallisti, Evodos and Hermogenes, sister and brothers; commemoration of Jesus son of Navi; and anniversary of the great fire." //full title of day
