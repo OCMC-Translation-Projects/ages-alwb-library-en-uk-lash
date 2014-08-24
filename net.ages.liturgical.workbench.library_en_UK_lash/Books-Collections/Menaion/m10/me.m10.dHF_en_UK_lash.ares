@@ -266,13 +266,10 @@ meLI.SeasonalKontakion.text = ""
 
 meLI.Alleluia.mode = misc_en_UK_lash.Mode4
 
-meLI.AlleluiaVerse1.source = ""
 meLI.AlleluiaVerse1.text = ""
 
-meLI.AlleluiaVerse2.source = ""
 meLI.AlleluiaVerse2.text = ""
 
-meLI.CommunionHymn.source = ""
 meLI.CommunionHymn.text = ""
 
 
