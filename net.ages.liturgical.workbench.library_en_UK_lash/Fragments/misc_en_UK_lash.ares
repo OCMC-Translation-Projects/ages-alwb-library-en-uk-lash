@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = misc_en_UK_lash 
 
-NA = "(At the time of publication, an English translation of this text was not available.)"
+NotAvailable = "(At the time of publication, an English translation of this text was not available.)"
 NotMetered = "(not metered)"
 Automelon = "Model Melody."
 Heirmos = "The Irmos."
