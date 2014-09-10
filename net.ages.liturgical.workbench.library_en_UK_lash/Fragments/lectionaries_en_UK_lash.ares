@@ -50,9 +50,9 @@ lecAP.Period.uc = ""
 lecAP.HolyWeek.uc = ""
 lecAP.Menaion.uc = ""
 lecAP.Various.uc = ""
-lecAP.Eothinon.uc = ""
+lecLE.Eothinon.uc = ""
 
-lecAP.Eothinon = ""
+lecLE.Eothinon = ""
 
 lecEV.Evangelion = ""
 lecEV.ForefestalGospel = ""
