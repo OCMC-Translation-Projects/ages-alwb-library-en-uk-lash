@@ -22,7 +22,7 @@ DiEfchonDespotou.text = ""
 
 DiEfchonPateron.text = ""
 
-DoxaPatri.text = ""
+DoxaPatri.text = "Glory to the Father, and to the Son, and to the Holy Spirit."
 
 DoxaSoiChriste1 = ""
 
@@ -34,7 +34,7 @@ DoxaSoiKyrieP = ""
 
 DoxaSoiOTheos1 = ""
 
-DoxaSoiOTheosImon.text = ""
+DoxaSoiOTheosImon.text = "Glory to you, our God, glory to you."
 
 DoxaTiAgiaAnastasei.text = ""
 
@@ -46,13 +46,13 @@ DoxaToPatri.text = ""
 
 EisToOnoma = ""
 
-EvlogitosOTheosImon.text = ""
+EvlogitosOTheosImon.text = "Blessed is our God."
 
 EvlogoumenPatera.text = ""
 
 IElpisImonKyrie = ""
 
-KaiNynKaiAei.text = ""
+KaiNynKaiAei.text = "Both now and for ever, and to the ages of ages. Amen."
 
 Kelefson = ""
 
@@ -61,7 +61,7 @@ KelefsonDespota = ""
 
 OTheosOiktirisai.text = ""
 
-PantoteNyn.text = ""
+PantoteNyn.text = "Always, now and for ever, and to the ages of ages. Amen."
 
 Evlogison = ""
 
@@ -69,7 +69,7 @@ EvlogisonP = ""
 
 EnOnomatiKyriou.text = ""
 
-EvlogisonThymiama.text = ""
+EvlogisonThymiama.text = "Master, bless the incense. "
 
 AgieTouTheou.text = ""
 
@@ -85,7 +85,7 @@ EleisonMeOTheos.text = ""
 
 AxionEstin.text = ""
 
-AgiosOTheos.text = ""
+AgiosOTheos.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us"
 
 EpouranieVasilef.text = ""
 
@@ -101,7 +101,7 @@ OEnPantiKairo.text = ""
 
 OOnEvlogitos.text = ""
 
-PanagiaTrias.text = ""
+PanagiaTrias.text = "All-holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for your name’s sake."
 
 PaschaDialog1.text = ""
 PaschaDialog2.text = ""
@@ -110,7 +110,7 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = ""
+PaterImon.text = "Our Father, in heaven, may your name be hallowed, your kingdom come; your will be done on earth as in heaven. Give us today our daily bread, and forgive us our debts, as we forgive our debtors, and do not lead us into temptation, but deliver us from the evil one."
 
 Pistevo.text = ""
 
@@ -120,9 +120,9 @@ StereosaiKyrios.text = ""
 
 Thymiama.text = ""
 
-TinTimioteran.text = ""
+TinTimioteran.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
-VasilefOuranie.text = ""
+VasilefOuranie.text = "Heavenly King, Advocate, Spirit of truth,  present everywhere, filling all things, Treasury of blessings and Giver of life, come and dwell in us, cleanse us from every stain, and, O Good One, save our souls."
 
 trDiaTisTheotokou = ""
 
@@ -136,13 +136,13 @@ fePresveiaisTonAgionKaiSosonMe = ""
 
 fbPresveiaisKyrieTonAgion = ""
 
-enarxis01 = ""
+enarxis01 = "Blessed is our God, always, now and for ever, and to the ages of ages."
 
 enarxis02 = ""
 
 enarxis03 = ""
 
-pet00 = ""
+pet00 = "Let us pray to the Lord."
 
 pet01 = "" // Great Litany
 
@@ -270,7 +270,7 @@ petCatechumens01 = ""
 
 petCatechumens02 = ""
 
-petCatechumens03 = "" 
+petCatechumens03 = ""
 
 petCatechumens04 = ""
 
@@ -286,7 +286,7 @@ petCatechumens09 = ""
 
 petCatechumens10 = ""
 
-petCatechumens11 = "" 
+petCatechumens11 = ""
 
 petCatechumens12 = ""
 
@@ -318,7 +318,7 @@ petCompline01 = ""
 
 petCompline02 = ""
 
-petCompline03 = "" //hierarch
+petCompline03 = "" // hierarch
 
 petCompline04 = ""
 
@@ -478,13 +478,13 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = ""
+res01 = "Lord, have mercy"
 
 res02 = ""
 
 res03 = ""
 
-res04 = ""
+res04 = "Amen."
 
 res05 = ""
 
@@ -492,7 +492,7 @@ res06 = ""
 
 res07 = ""
 
-res08 = ""
+res08 = "Master, give the blessing."
 
 res09 = ""
 
@@ -500,7 +500,7 @@ res10 = ""
 
 res12 = ""
 
-res13 = ""
+res13 = "Glory to you, Christ God, our hope, glory to you."
 
 res14 = ""
 
@@ -592,7 +592,7 @@ exc18 = ""
 
 exc19 = ""
 
-exc20 = ""
+exc20 = "For yours is the kingdom, the power and the glory, of the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages."
 
 exc22 = ""
 
