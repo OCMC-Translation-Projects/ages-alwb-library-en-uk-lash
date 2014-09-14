@@ -1,11 +1,11 @@
-A_Resource_Whose_Name = misc_en_UK_lash 
+A_Resource_Whose_Name = misc_en_UK_lash
 
-NA  = ""
+NA = ""
 NotMetered = "(not metered)"
 Automelon = "Model Melody."
 Heirmos = "The Irmos."
 Idiomelon = "Idiomel"
-Prosomoion  = ""
+Prosomoion = ""
 
 vVerse = "Verse:"
 vVerse1 = "Verse 1:"
@@ -22,8 +22,8 @@ Mode5 = "Tone 5."
 Mode6 = "Tone 6."
 Mode7 = "Tone 7."
 Mode8 = "Tone 8."
-ModeVariable  = ""
-ModeNA  = ""
+ModeVariable = ""
+ModeNA = ""
 
 Ode1 = "Ode 1."
 Ode2 = "Ode 2."
