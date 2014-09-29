@@ -85,7 +85,7 @@ EleisonMeOTheos.text = ""
 
 AxionEstin.text = ""
 
-AgiosOTheos.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us"
+AgiosOTheos.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us."
 
 EpouranieVasilef.text = ""
 
@@ -138,19 +138,19 @@ fbPresveiaisKyrieTonAgion = ""
 
 enarxis01 = "Blessed is our God, always, now and for ever, and to the ages of ages."
 
-enarxis02 = ""
+enarxis02 = "Blessed is the Kingdom of the Father, and of the Son, and of the Holy Spirit, now and for ever, and to the ages of ages."
 
 enarxis03 = ""
 
 pet00 = "Let us pray to the Lord."
 
-pet01 = "" // Great Litany
+pet01 = "In peace, let us pray to the Lord." // Great Litany
 
-pet02 = ""
+pet02 = "For the peace from above and for the salvation of our souls, let us pray to the Lord."
 
-pet03 = ""
+pet03 = "For the peace of the whole world, for the welfare of the holy Churches of God, and for the union of all, let us pray to the Lord."
 
-pet04 = ""
+pet04 = "For this holy house, and for those who enter it with faith, reverence and the fear of God, let us pray to the Lord."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -160,7 +160,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = ""
+pet06 = "For our Archbishop N, for the honoured order of presbyters, for the diaconate in Christ, for all the clergy and the people, let us pray to the Lord."
 
 pet06a = "" // supplement with client specific rank and name
 
@@ -174,19 +174,19 @@ pet07Sa = ""
 
 pet08 = ""
 
-pet08alt = ""
+pet08alt = "For this city, for every city, town and village, and for the faithful who dwell in them, let us pray to the Lord."
 
-pet09 = ""
+pet09 = "For favourable weather, an abundance of the fruits of the earth, and temperate seasons, let us pray to the Lord."
 
-pet10 = ""
+pet10 = "For those who travel by land, air or water, for the sick, the suffering, for those in captivity, and for their safety and salvation, let us pray to the Lord."
 
-pet11 = ""
+pet11 = "For our deliverance from all affliction, wrath, danger and constraint, let us pray to the Lord."
 
-pet12 = ""
+pet12 = "Help us, save us, have mercy on us, and keep us, O God, by your grace."
 
-pet13 = ""
+pet13 = "Commemorating our all-holy, pure, most blessed and glorious Lady, Mother of God and Ever-Virgin Mary, with all the Saints, let us entrust ourselves and one another and our whole life to Christ our God."
 
-pet14 = "" // Short Litany
+pet14 = "Again and again in peace, let us pray to the Lord." // Short Litany
 
 pet15 = "" // Ektenia
 
@@ -478,11 +478,11 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = "Lord, have mercy"
+res01 = "Lord, have mercy."
 
 res02 = ""
 
-res03 = ""
+res03 = "To you, O Lord."
 
 res04 = "Amen."
 
@@ -538,11 +538,11 @@ res15p = ""
 
 res16p = ""
 
-exc01 = ""
+exc01 = "For to you belong all glory, honour and worship, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc01a = ""
 
-exc02 = ""
+exc02 = "For yours is the might, and yours is the kingdom, the power and the glory, of the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages."
 
 exc03 = ""
 
