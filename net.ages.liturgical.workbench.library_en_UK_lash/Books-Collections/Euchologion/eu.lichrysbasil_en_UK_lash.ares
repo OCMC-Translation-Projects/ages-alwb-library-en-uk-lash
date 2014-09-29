@@ -17,11 +17,11 @@ euLI.Key0110.text = prayers_en_UK_lash.res04
 // Part 02 Great Litany - Antiphon 1
 euLI.Key0200.text = "" // .text and not .title for the sake of media
 euLI.Key0201.title = ""
-euLI.Key0201.text = ""
+euLI.Key0201.text = "Lord, our God, whose might is beyond compare and whose glory is beyond understanding, whose mercy is without measure and whose love for mankind is beyond all telling, look upon us and upon this holy house, Master, according to your loving kindness, and bestow on us and on those who pray with us your acts of rich mercy and compassion."
 
 // Part 03 Antiphon 2
 euLI.Key0301.title = ""
-euLI.Key0301.text = ""
+euLI.Key0301.text = "Lord, our God, save your people and bless your inheritance; protect the fullness of your Church, sanctify those who love the beauty of your house, glorify them in return by your divine power, and do not forsake us who hope in you."
 
 // Part 04 Antiphon 3 
 euLI.Key0401.title = ""
