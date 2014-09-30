@@ -8,7 +8,7 @@ KaiNyn = ""
 
 Allilouia1 = ""
 
-Allilouia3.text = ""
+Allilouia3.text = "Alleluia, Alleluia, Alleluia."
 
 Allilouia3Doxa.text = ""
 
@@ -28,7 +28,7 @@ DoxaSoiChriste1 = ""
 
 DoxaSoiChriste2 = ""
 
-DoxaSoiKyrie = ""
+DoxaSoiKyrie = "Glory to you, O Lord, glory to you."
 
 DoxaSoiKyrieP = ""
 
@@ -56,7 +56,7 @@ KaiNynKaiAei.text = "Both now and for ever, and to the ages of ages. Amen."
 
 Kelefson = ""
 
-KelefsonDespota = ""
+KelefsonDespota = "Master, command."
 
 
 OTheosOiktirisai.text = ""
@@ -188,11 +188,11 @@ pet13 = "Commemorating our all-holy, pure, most blessed and glorious Lady, Mothe
 
 pet14 = "Again and again in peace, let us pray to the Lord." // Short Litany
 
-pet15 = "" // Ektenia
+pet15 = "Let us all say, with all our soul and with all our mind, let us say." // Ektenia
 
-pet16 = ""
+pet16 = "Lord almighty, the God of our fathers, we pray you, hear and have mercy."
 
-pet17 = ""
+pet17 = "Have mercy on us, O God, according to your great mercy, we pray you, hear and have mercy."
 
 pet18 = ""
 
@@ -216,7 +216,7 @@ pet21p = ""
 
 pet22 = ""
 
-pet23 = ""
+pet23 = "Also we pray for those who bring offerings, those who care for the beauty of this holy and venerable house, for those who labour in its service, for those who sing, and for the people here present, who await your great and rich mercy."
 
 pet24 = "" // Complementary
 
@@ -238,7 +238,7 @@ pet29 = ""
 
 pet30 = ""
 
-pet31 = ""
+pet31 = "Peace to all."
 
 pet32 = ""
 
@@ -486,7 +486,7 @@ res03 = "To you, O Lord."
 
 res04 = "Amen."
 
-res05 = ""
+res05 = "And to your spirit."
 
 res06 = ""
 
@@ -544,15 +544,15 @@ exc01a = ""
 
 exc02 = "For yours is the might, and yours is the kingdom, the power and the glory, of the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages."
 
-exc03 = ""
+exc03 = "For you, O God, are good and love mankind, and to you we give glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc04 = ""
 
 exc05 = ""
 
-exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
+exc05a = "For you, our God, are holy, and to you we give glory, Father, Son and Holy Spirit, now and for ever," // split exclamation for Trisagios Hymn at Liturgy
 
-exc05b = ""
+exc05b = "and to the ages of ages."
 
 exc06 = ""
 
@@ -570,7 +570,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = ""
+exc11 = "For you, O God, are merciful, and love mankind, and to you we give glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc11a = ""
 
@@ -586,11 +586,11 @@ exc16 = ""
 
 exc16a = ""
 
-exc17 = ""
+exc17 = "Wisdom."
 
-exc18 = ""
+exc18 = "Stand upright."
 
-exc19 = ""
+exc19 = "Let us attend."
 
 exc20 = "For yours is the kingdom, the power and the glory, of the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages."
 
@@ -614,17 +614,17 @@ epi01a = "" // leave blank in Greek
 
 epi01b = ""
 
-epi02 = ""
+epi02 = "Peace to you."
 
 gos01 = ""
 
-gos02 = ""
+gos02 = "Let us listen to the Holy Gospel."
 
 gos03a = ""
 
 gos03b = ""
 
-gos04 = ""
+gos04 = "Peace to you."
 
 verse_Angels.text = ""
 
