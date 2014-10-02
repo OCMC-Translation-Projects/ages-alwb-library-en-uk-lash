@@ -20,51 +20,6 @@ sat = ""
 sun = ""
 wkd = ""
 
-//sacraments
-bap.html.tab = ""
-bap.pdf.header = ""
-bap.pdf.cover = ""
-
-cdo.html.tab = ""
-cdo.pdf.header = ""
-cdo.pdf.cover = ""
-
-chi.html.tab = ""
-chi.pdf.header = ""
-chi.pdf.cover = ""
-
-con.html.tab = ""
-con.pdf.header = ""
-con.pdf.cover = ""
-
-fun.html.tab = ""
-fun.pdf.header = ""
-fun.pdf.cover = ""
-
-mem.html.tab = ""
-mem.pdf.header = ""
-mem.pdf.cover = ""
-
-ord.html.tab = ""
-ord.pdf.header = ""
-ord.pdf.cover = ""
-
-pen.html.tab = ""
-pen.pdf.header = ""
-pen.pdf.cover = ""
-
-swb.html.tab = ""
-swb.pdf.header = ""
-swb.pdf.cover = ""
-
-unc.html.tab  = ""
-unc.pdf.header = ""
-unc.pdf.cover = ""
-
-wed.html.tab = ""
-wed.pdf.header = ""
-wed.pdf.cover = ""
-
 //service names
 service = ""
 
@@ -77,6 +32,13 @@ co.salutations.pdf.cover = ""
 co.salutations.pdf.header = ""
 co.greatcompline.pdf.cover = ""
 co.greatcompline.pdf.header = ""
+
+//sacraments
+con.consecration = ""
+
+un.html.tab  = ""
+un.pdf.header = ""
+un.pdf.cover = ""
 
 em.html.tab  = "" //this is for Matins in the evening during Holy Week
 em.pdf.header = ""

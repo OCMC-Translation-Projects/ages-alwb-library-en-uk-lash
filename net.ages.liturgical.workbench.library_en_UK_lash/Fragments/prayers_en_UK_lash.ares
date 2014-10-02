@@ -20,13 +20,13 @@ DefteProskinisomen3 = ""
 
 DiEfchonDespotou.text = ""
 
-DiEfchonPateron.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy upon us."
+DiEfchonPateron.text = ""
 
 DoxaPatri.text = ""
 
 DoxaSoiChriste1 = ""
 
-DoxaSoiChriste2 = "Glory to you, Christ God, our hope, glory to you."
+DoxaSoiChriste2 = ""
 
 DoxaSoiKyrie = ""
 
@@ -250,7 +250,7 @@ pet35 = ""
 
 pet36 = ""
 
-pet37 = "The blessing of the Lord be upon you, by his grace and love for mankind, always, now and for ever, and to the ages of ages." // Dismissal
+pet37 = "" // Dismissal
 
 petBap01 = ""
 
@@ -270,7 +270,7 @@ petCatechumens01 = ""
 
 petCatechumens02 = ""
 
-petCatechumens03 = ""
+petCatechumens03 = "" 
 
 petCatechumens04 = ""
 
@@ -286,7 +286,7 @@ petCatechumens09 = ""
 
 petCatechumens10 = ""
 
-petCatechumens11 = ""
+petCatechumens11 = "" 
 
 petCatechumens12 = ""
 
@@ -318,7 +318,7 @@ petCompline01 = ""
 
 petCompline02 = ""
 
-petCompline03 = "" // hierarch
+petCompline03 = "" //hierarch
 
 petCompline04 = ""
 
@@ -488,7 +488,7 @@ res04 = ""
 
 res05 = ""
 
-res06 = "Lord, have mercy. Lord, have mercy. Lord, have mercy."
+res06 = ""
 
 res07 = ""
 
@@ -500,7 +500,7 @@ res10 = ""
 
 res12 = ""
 
-res13 = "Holy Master, give the blessing."
+res13 = ""
 
 res14 = ""
 
@@ -598,7 +598,7 @@ exc22 = ""
 
 exc23 = ""
 
-exc24 = "For you are our sanctification, and to you we give glory, the Father, the Son and the Holy Spirit, now and for ever, and to the ages of ages."
+exc24 = ""
 
 exc25 = ""
 
@@ -661,10 +661,6 @@ verseP_Panteleimon.text = ""
 verse_Righteous.text = ""
 
 verseP_Righteous.text = ""
-
-verse_SoulSaturday.text = ""
-
-verseP_SoulSaturday.text = ""
 
 verse_Theotokos.text = ""
 

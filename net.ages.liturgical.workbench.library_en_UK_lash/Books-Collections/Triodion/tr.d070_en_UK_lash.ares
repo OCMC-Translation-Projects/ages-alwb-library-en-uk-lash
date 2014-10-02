@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = tr.d070_en_UK_lash 
+A_Resource_Whose_Name = tr.d070_en_UK_lash
 
 trHW.Encomia.title = "The Lamentations."
 
@@ -391,3 +391,5 @@ trHW.Encomia3T.text = "Count all your servants worthy, * to see, Most Holy Virgi
 
 // Not in Triodion, but common
 trHW.Encomia3F.text = trHW.Encomia301.text
+trTE.Troparion.text = "Christ, who hold fast the ends of the earth, you accepted to be held fast in a tomb, that you might ransom humanity from the maw of Hell, * and as immortal God you have given us life and immortality."
+trTE.Troparion2.text = "And as immortal God you have given us life and immortality."
