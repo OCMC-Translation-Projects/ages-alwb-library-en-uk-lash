@@ -18,8 +18,6 @@ lemcVE.reading3.book = bible_en_UK_lash.Isaiah
 lemcVE.reading3.chapverse = ""
 lemcVE.reading3.text = ""
 
-
-
 lemcTE.reading1.title = ""
 lemcTE.reading1.version = bible_en_UK_lash.version.designation
 lemcTE.reading1.book = bible_en_UK_lash.Ezekiel
