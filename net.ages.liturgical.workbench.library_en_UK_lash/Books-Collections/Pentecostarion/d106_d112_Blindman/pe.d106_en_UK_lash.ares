@@ -7,7 +7,6 @@ peInsert2 = "" //for use in petitions and dismissal
 peNote.text = ""
 //peDismissal = ""
 
-
 peVE.Stichera09.mode = misc_en_UK_lash.Mode2
 peVE.Stichera09.melody = misc_en_UK_lash.Idiomelon
 peVE.Stichera09.text = "The man born blind reasoned with himself, \"Was it through my parents' sin that I was born blind? Or was I born because of the unbelief of the nations as an accusation? I am not competent to ask when it is day, when night. My feet cannot detect the stumbling blocks of the stones. I have not seen the sun shining, nor him who fashioned me in his image. But I beg you, Christ God: Look on me and have mercy on me.\""
