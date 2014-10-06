@@ -38,7 +38,7 @@ ocVE.Aposticha2.text = oc.m2.d4_en_UK_lash.ocVE.Aposticha2.text
 
 ocVE.Aposticha3.mode = misc_en_UK_lash.Mode2
 ocVE.Aposticha3.melody  = ""
-ocVE.Aposticha3.text = ""
+ocVE.Aposticha3.text = oc.m2.d2_en_UK_lash.ocVE.Aposticha3.text
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode2
 ocVE.AposTheotokion.melody = he.a.m2_en_UK_lash.OteEkTouXylou.name
