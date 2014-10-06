@@ -42,7 +42,7 @@ ocVE.Aposticha3.text = he.a.m1_en_UK_lash.PaneffimoiMartyres.text
 
 ocVE.AposTheotokion.mode = misc_en_UK_lash.Mode1
 ocVE.AposTheotokion.melody = he.a.m1_en_UK_lash.PaneffimoiMartyres.name
-ocVE.AposTheotokion.text = ""
+ocVE.AposTheotokion.text = oc.m1.d3_en_UK_lash.ocMA.AposTheotokion.text
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode1
 ocVE.ApolTheotokionVM.melody  = ""
