@@ -517,11 +517,11 @@ ocMA.Aposticha2.text = oc.m5.d2_en_UK_lash.ocMA.Aposticha2.text
 
 ocMA.Aposticha3.mode = misc_en_UK_lash.Mode5
 ocMA.Aposticha3.melody = ""
-ocMA.Aposticha3.text = ""
+ocMA.Aposticha3.text = "The holy Martyrs struggled upon earth, they remained steadfast in the open air, they were given up to fire, water received them; this was their cry: We have passed through fire and water, and you have brought us to repose. At their prayers, O God, have mercy on us."
 
 ocMA.AposTheotokion.mode = misc_en_UK_lash.Mode5
 ocMA.AposTheotokion.melody = ""
-ocMA.AposTheotokion.text = ""
+ocMA.AposTheotokion.text = "Hope of the hopeless, life of the despairing, assistance of those who have recourse to you, holy Lady, Virgin, Mother of God, send down to us your help."
 
 ocMA.ApolTheotokion.mode = misc_en_UK_lash.Mode5
 ocMA.ApolTheotokion.melody = ""
