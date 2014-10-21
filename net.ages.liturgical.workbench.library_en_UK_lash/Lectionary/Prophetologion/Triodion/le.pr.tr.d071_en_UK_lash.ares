@@ -54,27 +54,39 @@ lemcVE.reading9.book = bible_en_UK_lash.Isaiah
 lemcVE.reading9.chapverse = ""
 lemcVE.reading9.text = ""
 
-lemcVE.Reading10.book = bible_en_UK_lash.Genesis
-lemcVE.Reading10.chapverse = ""
-lemcVE.Reading10.text = ""
+lemcVE.reading10.title = ""
+lemcVE.reading10.version = bible_en_UK_lash.version.designation
+lemcVE.reading10.book = bible_en_UK_lash.Genesis
+lemcVE.reading10.chapverse = ""
+lemcVE.reading10.text = ""
 
-lemcVE.Reading11.book = bible_en_UK_lash.Isaiah
-lemcVE.Reading11.chapverse = ""
-lemcVE.Reading11.text = ""
+lemcVE.reading11.title = ""
+lemcVE.reading11.version = bible_en_UK_lash.version.designation
+lemcVE.reading11.book = bible_en_UK_lash.Isaiah
+lemcVE.reading11.chapverse = ""
+lemcVE.reading11.text = ""
 
-lemcVE.Reading12.book = bible_en_UK_lash.Kings2
-lemcVE.Reading12.chapverse = ""
-lemcVE.Reading12.text = ""
+lemcVE.reading12.title = ""
+lemcVE.reading12.version = bible_en_UK_lash.version.designation
+lemcVE.reading12.book = bible_en_UK_lash.Kings2
+lemcVE.reading12.chapverse = ""
+lemcVE.reading12.text = ""
 
-lemcVE.Reading13.book = bible_en_UK_lash.Isaiah
-lemcVE.Reading13.chapverse = ""
-lemcVE.Reading13.text = ""
+lemcVE.reading13.title = ""
+lemcVE.reading13.version = bible_en_UK_lash.version.designation
+lemcVE.reading13.book = bible_en_UK_lash.Isaiah
+lemcVE.reading13.chapverse = ""
+lemcVE.reading13.text = ""
 
-lemcVE.Reading14.book = bible_en_UK_lash.Jeremiah
-lemcVE.Reading14.chapverse = ""
-lemcVE.Reading14.text = ""
+lemcVE.reading14.title = ""
+lemcVE.reading14.version = bible_en_UK_lash.version.designation
+lemcVE.reading14.book = bible_en_UK_lash.Jeremiah
+lemcVE.reading14.chapverse = ""
+lemcVE.reading14.text = ""
 
-lemcVE.Reading15.book = bible_en_UK_lash.Daniel
-lemcVE.Reading15.chapverse = ""
-lemcVE.Reading15.text = ""
+lemcVE.reading15.title = ""
+lemcVE.reading15.version = bible_en_UK_lash.version.designation
+lemcVE.reading15.book = bible_en_UK_lash.Daniel
+lemcVE.reading15.chapverse = ""
+lemcVE.reading15.text = ""
 
