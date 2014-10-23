@@ -82,7 +82,7 @@ OsiaTouTheou.text = ""
 
 EleisonMeOTheos.text = ""
 
-AxionEstin.text = ""
+AxionEstin.text = "It is truly right to call you blessed, who gave birth to God, ever-blessed and most pure, and Mother of our God. Greater in honour than the Cherubim and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word; truly the Mother of God, we magnify you."
 
 AgiosOTheos.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us."
 
@@ -111,7 +111,7 @@ PaschaDialog6.text = ""
 
 PaterImon.text = "Our Father, in heaven, may your name be hallowed, your kingdom come; your will be done on earth as in heaven. Give us today our daily bread, and forgive us our debts, as we forgive our debtors, and do not lead us into temptation, but deliver us from the evil one."
 
-Pistevo.text = ""
+Pistevo.text = "I believe in one God, * Father, Almighty,* Maker of heaven and earth,* and of all things visible and invisible. And in one Lord, Jesus Christ,* the only-begotten Son of God, * begotten from the Father * before all ages, * Light from Light, * true God from true God, * begotten * not made, * consubstantial with the Father,* through him all things were made. * For our sake and for our salvation * he came down from heaven, * and was incarnate from the Holy Spirit * and the Virgin Mary * and became man. * He was crucified also for us under Pontius Pilate,* and suffered and was buried; * he rose again on the third day, * in accordance with the Scriptures, * and ascended into heaven * and is seated at the right hand of the Father. * He is coming again in glory * to judge the living and the dead, * and his kingdom will have no end. And in the Holy Spirit, * the Lord, * the Giver of life, * who proceeds from the Father, * who together with Father and Son is worshipped * and together glorified; * who spoke through the Prophets. * In one, Holy, * Catholic and Apostolic Church. * I confess one Baptism * for the forgiveness of sins. * I await the resurrection of the dead * and the life of the age to come. Amen."
 
 SoulSaturday.text = ""
 
@@ -217,7 +217,7 @@ pet22 = ""
 
 pet23 = "Also we pray for those who bring offerings, those who care for the beauty of this holy and venerable house, for those who labour in its service, for those who sing, and for the people here present, who await your great and rich mercy."
 
-pet24 = "" // Complementary
+pet24 = "Let us complete our prayer to the Lord." // Complementary
 
 pet24v = ""
 
@@ -225,17 +225,17 @@ pet24m = ""
 
 pet25v = ""
 
-pet25m = ""
+pet25m = "That the whole day may be perfect, holy, peaceful and sinless, let us ask of the Lord."
 
-pet26 = ""
+pet26 = "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
 
-pet27 = ""
+pet27 = "Pardon and forgiveness of our sins and offences, let us ask of the Lord."
 
-pet28 = ""
+pet28 = "Those things that are good and profitable for our souls, and peace for the world, let us ask of the Lord."
 
-pet29 = ""
+pet29 = "That we may live out the rest of our days in peace and repentance, let us ask of the Lord."
 
-pet30 = ""
+pet30 = "A Christian end to our life, painless, unashamed and peaceful, and a good defence before the dread judgement seat of Christ, let us ask."
 
 pet31 = "Peace to all."
 
@@ -479,7 +479,7 @@ sup99 = ""
 
 res01 = "Lord, have mercy."
 
-res02 = ""
+res02 = "Grant this, O Lord."
 
 res03 = "To you, O Lord."
 
@@ -495,7 +495,7 @@ res08 = "Master, give the blessing."
 
 res09 = ""
 
-res10 = ""
+res10 = "Amen. Amen. Amen."
 
 res12 = ""
 
