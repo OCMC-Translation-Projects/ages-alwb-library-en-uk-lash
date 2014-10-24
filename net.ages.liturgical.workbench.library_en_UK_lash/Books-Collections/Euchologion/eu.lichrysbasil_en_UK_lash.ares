@@ -130,7 +130,6 @@ euLI.Key1307.text = "Let us give thanks to the Lord."
 euLI.Key1308.text = "It is right and fitting."
 euLI.Key1309.text = "It is right and fitting to hymn you, to bless you,
 to praise you, to give you thanks, to worship you in every place of your dominion; for you are God, ineffable, incomprehensible, invisible, inconceivable, ever existing, eternally the same; you and your only-begotten Son and your Holy Spirit. You brought us out of non-existence into being, and when we had fallen you raised us up again, and left nothing undone until you had brought us up to heaven and had granted us your Kingdom that is to come. For all these things we give thanks to you, and to your only-begotten Son and your Holy Spirit; for all the benefits that we have received, known and unknown, manifest and hidden. We thank you also for this liturgy which you have been pleased to accept from our hands, though there stand around you thousands of archangels and tens of thousands of angels, the Cherubim and the Seraphim, six-winged and many-eyed, soaring aloft upon their wings,"
-to praise you, to give you thanks, to worship you in every place of your dominion; for you are God, ineffable, incomprehensible, invisible, inconceivable, ever existing, eternally the same; you and your only-begotten Son and your Holy Spirit. You brought us out of non-existence into being, and when we had fallen you raised us up again, and left nothing undone until you had brought us up to heaven and had granted us your Kingdom that is to come. For all these things we give thanks to you, and to your only-begotten Son and your Holy Spirit; for all the benefits that we have received, known and unknown, manifest and hidden. We thank you also for this liturgy which you have been pleased to accept from our hands, though there stand around you thousands of archangels and tens of thousands of angels, the Cherubim and the Seraphim, six-winged and many-eyed, soaring aloft upon their wings,"
 euLI.Key1309.basil.text = ""
 euLI.Key1310.text = "singing, crying, shouting the triumphal hymn, and saying:"
 euLI.Key1311.text = "Holy, holy, holy, Lord Sabaoth; heaven and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest."
@@ -178,8 +177,7 @@ euLI.Key1336.text = "And with your spirit."
 
 // Part 14 Before Communion
 euLI.Key1400.title = ""
-euLI.Key1401.text = "Having commemorated all the saints, again and"
-again in peace let us pray to the Lord."
+euLI.Key1401.text = "Having commemorated all the saints, again and again in peace let us pray to the Lord."
 euLI.Key1402.text = "For the precious gifts here set forth and sanctified, let us pray to the Lord."
 euLI.Key1403.text = "That our God, who loves mankind, having accepted them on his holy and immaterial Altar above the heavens, as a savour of spiritual fragrance, may send down upon us in return his divine grace and the gift of the Holy Spirit, let us pray."
 euLI.Key1404.text = "Having asked for the unity of the faith and the communion of the Holy Spirit, let us entrust ourselves and one another and our whole life to Christ, our God."
