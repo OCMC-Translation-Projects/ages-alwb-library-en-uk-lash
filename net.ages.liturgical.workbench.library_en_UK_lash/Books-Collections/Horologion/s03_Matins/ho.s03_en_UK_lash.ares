@@ -8,10 +8,10 @@ R3 = ""
 R4 = ""
 SixPsalms.title = ""
 R6 = ""
-hoMA.GodIsTheLord.text = "" // for media
+hoMA.GodIsTheLord.text = "" //for media
 R7 = ""
 R8 = ""
-R9 = "" // (about Lent)
+R9 = "" //(about Lent)
 R10 = ""
 
 hoMA.Triadics.title = titles_en_UK_lash.TriadicHymns
@@ -95,7 +95,7 @@ hoMA.ResEvlog5.text = ""
 hoMA.ResEvlog6.mode = misc_en_UK_lash.Mode5
 hoMA.ResEvlog6.text = ""
 hoMA.ResEvlog7.mode = misc_en_UK_lash.Mode5
-hoMA.ResEvlog7.text = prayers_en_UK_lash.Allilouia3Doxa.text
+hoMA.ResEvlog7.text = prayers_en_UK_lash.Allilouia3Doxa.text 
 
 hoMA.FuneralEvlog.title1 = ""
 hoMA.FuneralEvlog.title2 = ""
@@ -121,12 +121,12 @@ hoMA.FuneralEvlog9.mode = misc_en_UK_lash.Mode5
 hoMA.FuneralEvlog9.text = prayers_en_UK_lash.Allilouia3Doxa.text
 
 //Psalm 50
-hoMA.Psalm50.text = "" // for media
+hoMA.Psalm50.text = "" //for media
 
 hoMA.Ode9.Meg00.text = ""
 
 R15 = ""
-R16 = "" // (Lent)
+R16 = "" //(Lent)
 /*
 Title On Monday
 ending1
@@ -195,48 +195,48 @@ Hymn
 hoMA.ExapSatTitle = ""
 hoMA.ExapSat1.mode = misc_en_UK_lash.Mode3
 hoMA.ExapSat1.melody = misc_en_UK_lash.Automelon
-hoMA.ExapSat1.text = da.d7_en_UK_lash.daMA.Exaposteilarion1.text
+hoMA.ExapSat1.text = da.d7_en_UK_lash.daMA.Exaposteilarion1.text 
 
 hoMA.ExapSat2.mode = misc_en_UK_lash.Mode3
 hoMA.ExapSat2.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
-hoMA.ExapSat2.text = da.d7_en_UK_lash.daMA.Exaposteilarion2.text
+hoMA.ExapSat2.text = da.d7_en_UK_lash.daMA.Exaposteilarion2.text 
 
 hoMA.ExapSatTh.mode = misc_en_UK_lash.Mode3
 hoMA.ExapSatTh.melody = he.a.m3_en_UK_lash.OOuranonToisAstrois.name
-hoMA.ExapSatTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion.text
+hoMA.ExapSatTh.text = da.d7_en_UK_lash.daMA.ExapTheotokion.text 
 
 R19 = ""
 R20 = ""
 R21 = ""
 hoMA.LaudsSunTheotokion.text = oc.m2.d1_en_UK_lash.ocMA.Kathisma23.text
 
-hoMA.DoxologyGreat.title = "THE GREAT DOXOLOGY"
-hoMA.DoxologyGreatIntro.text = "Glory to you who have shown us the light."
-hoMA.DoxologyVerse01.text = "Glory to God in the highest, and on earth peace; good will among men"
-hoMA.DoxologyVerse02.text = "We praise you, * we bless you, * we worship you, * we glorify you, * we give you thanks * for your great glory."
-hoMA.DoxologyVerse03.text = "Lord, King, * God of heaven, * Father, Almighty, * Lord, only-begotten Son, * Jesus Christ * and holy Spirit."
-hoMA.DoxologyVerse04.text = "Lord God, * Lamb of God, * Son of the Father, * who takes away the sin of the world, * have mercy on us; * you take away the sins of the world."
-hoMA.DoxologyVerse05.text = "Receive our prayer, * you who sit on the right hand of the Father, * and have mercy on us."
-hoMA.DoxologyVerse06.text = "For you alone are holy, * you alone are Lord, * Jesus Christ, * to the glory of God the Father. Amen."
-hoMA.DoxologyVerse07.text = ""
+hoMA.DoxologyGreat.title = ""
+hoMA.DoxologyGreatIntro.text = ""
+hoMA.DoxologyVerse01.text = le.go.os_en_UK_lash.leosMA.GreatDoxology.v01.text
+hoMA.DoxologyVerse02.text = ""
+hoMA.DoxologyVerse03.text = ""
+hoMA.DoxologyVerse04.text = ""
+hoMA.DoxologyVerse05.text = ""
+hoMA.DoxologyVerse06.text = ""
+hoMA.DoxologyVerse07.text = ps_en_UK_lash.psa144.v2.text
 hoMA.DoxologyVerse07e.text = ""
-hoMA.DoxologyVerse08.text = "Grant, Lord, * this day * to keep us without sin."
+hoMA.DoxologyVerse08.text = ""
 hoMA.DoxologyVerse08e.text = ""
 hoMA.DoxologyVerse08n.text = ""
-hoMA.DoxologyVerse09.text = ""
-hoMA.DoxologyVerse10.text = ""
-hoMA.DoxologyVerse11a.text = ""
-hoMA.DoxologyVerse11b.text = "Blessed are You, O Master; Teach me Your ordinances."
-hoMA.DoxologyVerse11c.text = "Blessed are You, O Holy One; Teach me Your ordinances."
-hoMA.DoxologyVerse12a.text = ""
-hoMA.DoxologyVerse12b.text = ""
-hoMA.DoxologyVerse13.text = ""
-hoMA.DoxologyVerse14.text = ""
-hoMA.DoxologyVerse15.text = ""
+hoMA.DoxologyVerse09.text = le.pr.os_en_UK_lash.leosMA.GreatDoxology.v09.text
+hoMA.DoxologyVerse10.text = ps_en_UK_lash.psa32.v22.text
+hoMA.DoxologyVerse11a.text = ps_en_UK_lash.psa118.v12.text
+hoMA.DoxologyVerse11b.text = ""
+hoMA.DoxologyVerse11c.text = ""
+hoMA.DoxologyVerse12a.text = ps_en_UK_lash.psa89.v1.text
+hoMA.DoxologyVerse12b.text = ps_en_UK_lash.psa40.v5.text
+hoMA.DoxologyVerse13.text = ps_en_UK_lash.psa142.v10alt.text
+hoMA.DoxologyVerse14.text = ps_en_UK_lash.psa35.v10.text
+hoMA.DoxologyVerse15.text = ps_en_UK_lash.psa35.v11a.text
 hoMA.DoxologyVerse16.text = ""
 hoMA.DoxologyVerse17.text = ""
 hoMA.DoxologyVerse18.text = ""
-hoMA.DoxologyVerse19.text = "Holy Immortal, have mercy upon us."
+hoMA.DoxologyVerse19.text = ""
 R22 = ""
 hoMA.DoxologyVerse20.text = ""
 R23 = ""
@@ -244,8 +244,8 @@ hoMA.DoxologySmallIntro.text = ""
 hoMA.DoxologySmallEnd.text = ""
 hoMA.SmallDoxology.title = ""
 hoMA.SmallDoxology1.text = ""
-hoMA.SmallDoxology1d = ""
-hoMA.SmallDoxology1e = ""
+hoMA.SmallDoxology1d = "" 
+hoMA.SmallDoxology1e = "" 
 hoMA.SmallDoxology2.text = ""
 hoMA.SmallDoxology2d = ""
 hoMA.SmallDoxology2e = ""
@@ -256,9 +256,9 @@ R24 = ""
 R25 = ""
 R26 = ""
 R27 = ""
-R28 = "" // [maybe unpack]
+R28 = "" //[maybe unpack]
 hoMA.Apolytikion = oc.m6.d5_en_UK_lash.ocMA.Kathisma33.text
-R29 = "" // [maybe unpack]
+R29 = "" //[maybe unpack]
 R30 = ""
 R31 = ""
 R32 = ""
@@ -267,16 +267,16 @@ R34 = ""
 R35 = ""
 R36 = ""
 hoMA.SunTroparion1.mode = misc_en_UK_lash.Mode4
-hoMA.SunTroparion1.text = "Today salvation has come to the world. * Let us sing to him who rose from the tomb, the Author of our life. * For destroying death by death, * he has given us the victory * and his great mercy."
+hoMA.SunTroparion1.text = ""
 R37 = ""
 //Title ultimately link this to pe.d18.peMA.Kath12
 hoMA.SunTroparion2.mode = misc_en_UK_lash.Mode8
-hoMA.SunTroparion2.text = "By rising from the tomb * and bursting through the bonds of Hades, * you abolished the sentence of death, O Lord, * delivering all from the snares of the foe. * Having shown yourself to your Apostles, * you sent them out to preach, * and through them you gave peace * to the inhabited world, * you who alone are full of mercy."
-R38 = "" // [maybe unpack]
+hoMA.SunTroparion2.text = ""
+R38 = "" //[maybe unpack]
 R39 = ""
 
 //Order of Matins Gospel
-hoMA.Antiphon11.text = "" // for media
+hoMA.Antiphon11.text = "" //for media
 hoMA.PreGospelHymn.text = "" // for media
 
 hoMA.SunPostGospel.text = ""
@@ -299,7 +299,7 @@ hoMA.PostGospelHierarch.text = ""
 
 hoMA.SunPostGospelIdiomelon.text = ""
 
-hoMA.SunExapVerse1.text = "" // for media
+hoMA.SunExapVerse1.text = "" //for media
 
 //Triodion specific, not in Horologion
 hoMA.RtrSoS01 = ""
