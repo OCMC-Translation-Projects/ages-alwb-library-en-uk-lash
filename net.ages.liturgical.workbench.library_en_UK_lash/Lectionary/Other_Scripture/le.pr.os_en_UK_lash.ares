@@ -1,7 +1,7 @@
-A_Resource_Whose_Name = le.pr.os_en_UK_lash
+A_Resource_Whose_Name = le.pr.os_en_UK_lash 
 
 leosCO.Key0300.title = ""
-leosCO.Key0300.version = ""
+leosCO.Key0300.version = 
 leosCO.Key0300.book = bible_en_UK_lash.Isaiah
 leosCO.Key0300.chapverse = ""
 leosCO.Key0301.text = ""
@@ -27,7 +27,7 @@ leosCO.Key0320.text = ""
 leosCO.Key0321.text = ""
 
 leosMA.LentAlleluia.title = ""
-leosMA.LentAlleluia.version = ""
+leosMA.LentAlleluia.version = 
 leosMA.LentAlleluia.book = bible_en_UK_lash.Isaiah
 leosMA.LentAlleluia.chapverse = ""
 leosMA.LentAlleluiaVerse1.text = ""
@@ -39,17 +39,17 @@ leosMA.GreatDoxology.v09.title = ""
 leosMA.GreatDoxology.v09.version = ""
 leosMA.GreatDoxology.v09.book = bible_en_UK_lash.Daniel
 leosMA.GreatDoxology.v09.chapverse = ""
-leosMA.GreatDoxology.v09.text = "Blessed are you, O Lord, * the God of our Fathers, * and praised and glorified is your name * to the ages. Amen."
+leosMA.GreatDoxology.v09.text = ""
 
 leosLI.pe.d113.EpistleProkeimenon.title = ""
-leosLI.pe.d113.EpistleProkeimenon.version = ""
+leosLI.pe.d113.EpistleProkeimenon.version = 
 leosLI.pe.d113.EpistleProkeimenon.book = bible_en_UK_lash.Daniel
 leosLI.pe.d113.EpistleProkeimenon.chapverse = ""
 leosLI.pe.d113.EpistleProkeimenon.text = ""
 leosLI.pe.d113.EpistleProkeimenonVerse.text = ""
 
 leosFUN.Key1202.title = ""
-leosFUN.Key1202.version = ""
+leosFUN.Key1202.version = 
 leosFUN.Key1202.book = bible_en_UK_lash.Genesis
 leosFUN.Key1202.chapverse = ""
 leosFUN.Key1202.text = ""
