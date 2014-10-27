@@ -3,10 +3,7 @@ A_Resource_Whose_Name = ho.s21_en_UK_lash
 hoPCPrayer.title = ""
 hoPCPrayer.PistevoKyrie.text = ""
 
-hoPCPrayer.IdouVadizo.text = "Ἰδού, βαδίζω πρὸς θείαν Κοινωνίαν· <br>"
-Πλαστουργέ, μὴ φλέξῃς με τῇ μετουσίᾳ· <br>
-Πῦρ γὰρ ὑπάρχεις τοὺς ἀναξίους φλέγον. <br>
-Ἀλλ' οὖν κάθαρον ἐκ πάσης με κηλῖδος."
+hoPCPrayer.IdouVadizo.text = ""
 
 //find this in Holy Week
 hoPCPrayer.TouDeipnouSou.text = "Of your mystical Supper, Son of God, receive me today as a communicant; for I will not tell of the Mystery to your enemies; I will not give you a kiss, like Judas; but like the Thief I confess you: Remember me, Lord, in your Kingdom."
@@ -15,9 +12,7 @@ hoPCPrayer.Theourgon.text = "You see the deifying Blood: have fear.
 It is a coal consuming the unworthy.
 God’s Body deifies and nourishes
 Me strangely; both my spirit and my mind."
-Ἄνθραξ γάρ ἐστι τοὺς ἀναξίους φλέγων· <br>
-Θεοῦ τὸ Σῶμα, καὶ θεοί με, καὶ τρέφει· <br>
-Θεοὶ τὸ πνεῦμα, τὸν δὲ νοῦν τρέφει ξένως."
+
 
 // find this on August 6
 hoPCPrayer.Ethelxas.text = me.m08.d06_en_UK_lash.meMA.Ode9C23.text
