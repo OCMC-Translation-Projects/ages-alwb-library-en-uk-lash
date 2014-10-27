@@ -4,7 +4,7 @@ AgiouKosma = ""
 
 AgiouKosmaOiDeIoannouMonachou = ""
 
-Anatoliou = "By Anatolios."
+Anatoliou = ""
 
 AnatoliouOiDeAndreouIerosolymitou = ""
 
@@ -36,7 +36,7 @@ Gerasimou = ""
 
 GerasimouAlexandreias = ""
 
-Germanou = "By Germanos."
+Germanou = ""
 
 GermanouOiDeAnatoliou = ""
 
@@ -58,11 +58,11 @@ Ioannou = ""
 
 IoannouEfchaiton = ""
 
-IoannouMonachou = "By Monk John."
+IoannouMonachou = ""
 
 IoannouTouDamaskinou = ""
 
-Iosif = ""
+Iosif = "A composition by Kyr Joseph."
 
 IosifThessalonikis = ""
 
@@ -98,7 +98,7 @@ KyriouIoannou = ""
 
 KyriouIoannouArkla = ""
 
-KyriouIosif = ""
+KyriouIosif = "A composition of Kyr Joseph."
 
 KyriouKosma = ""
 
@@ -164,7 +164,7 @@ Theodorou = ""
 
 TheodorouTouStouditou = ""
 
-Theofanous = ""
+Theofanous = "A composition by Kyr Theophanes."
 
 TheofanousOiDeIoannouMonachou = ""
 
@@ -172,13 +172,13 @@ TheostiriktouMonachouOiDeThefanous = ""
 
 Vasileiou = ""
 
-VasileiouMonachou = "By Monk Basil."
+VasileiouMonachou = ""
 
 Vavyla = ""
 
 Vyzantiou = ""
 
-Vyzantos = "By Vyzas."
+Vyzantos = ""
 
 KyriouTheodorou = ""
 
