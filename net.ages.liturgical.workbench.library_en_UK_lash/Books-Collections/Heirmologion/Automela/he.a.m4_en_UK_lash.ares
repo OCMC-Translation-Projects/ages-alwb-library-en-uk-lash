@@ -5,7 +5,7 @@ DiaXylouOAdam.name = ""
 DiaXylouOAdam.text = ""
 
 EdokasSimeiosin.mode = misc_en_UK_lash.Mode4
-EdokasSimeiosin.name = ""
+EdokasSimeiosin.name = "You have given as a sign."
 EdokasSimeiosin.text = ""
 
 EpefanisSimeron.mode = misc_en_UK_lash.Mode4
@@ -33,7 +33,7 @@ OYpsotheisEnToStavro.name = ""
 OYpsotheisEnToStavro.text = ""
 
 OsGennaionEnMartysi.mode = misc_en_UK_lash.Mode4
-OsGennaionEnMartysi.name = ""
+OsGennaionEnMartysi.name = "As noblest of Martyrs."
 OsGennaionEnMartysi.text = ""
 
 TachyProkatalave.mode = misc_en_UK_lash.Mode4
