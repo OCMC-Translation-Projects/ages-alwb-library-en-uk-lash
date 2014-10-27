@@ -26,7 +26,7 @@ DoxaPatri.text = ""
 
 DoxaSoiChriste1 = ""
 
-DoxaSoiChriste2 = "Glory to you, Christ God, our hope, glory to you."
+DoxaSoiChriste2 = ""
 
 DoxaSoiKyrie = ""
 
@@ -141,7 +141,7 @@ enarxis02 = ""
 
 enarxis03 = ""
 
-pet00 = "Let us pray to the Lord."
+pet00 = ""
 
 pet01 = "" // Great Litany
 
@@ -269,7 +269,7 @@ petCatechumens01 = ""
 
 petCatechumens02 = ""
 
-petCatechumens03 = ""
+petCatechumens03 = "" 
 
 petCatechumens04 = ""
 
@@ -285,7 +285,7 @@ petCatechumens09 = ""
 
 petCatechumens10 = ""
 
-petCatechumens11 = ""
+petCatechumens11 = "" 
 
 petCatechumens12 = ""
 
@@ -317,7 +317,7 @@ petCompline01 = ""
 
 petCompline02 = ""
 
-petCompline03 = "" // hierarch
+petCompline03 = "" //hierarch
 
 petCompline04 = ""
 
@@ -347,7 +347,7 @@ petConsecration01 = ""
 
 petConsecration02 = ""
 
-petFuneral01 = "Also we pray for the repose of the soul of the servant of God, N., who has fallen asleep, and that he/she may be pardoned every offence, both voluntary and involuntary."
+petFuneral01 = ""
 
 petFuneral02 = ""
 
@@ -367,7 +367,7 @@ petKneel07 = ""
 
 petKneel08 = ""
 
-petSouls01 = "Also we pray for the repose of all devout and Orthodox Christians who have fallen asleep before us in hope of resurrection, Rulers, Patriarchs, Bishops, Priests, Deacons, Monks, Nuns, Parents, Grandparents, Great Grandparents and Ancestors, those from the beginning until the last, and that they may be pardoned every offence, both voluntary and involuntary."
+petSouls01 = ""
 
 petSouls02 = ""
 
@@ -477,17 +477,17 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = "Lord, have mercy."
+res01 = ""
 
-res02 = "Grant this, O Lord."
+res02 = ""
 
 res03 = ""
 
-res04 = "Amen."
+res04 = ""
 
 res05 = ""
 
-res06 = "Lord, have mercy. Lord, have mercy. Lord, have mercy."
+res06 = ""
 
 res07 = ""
 
@@ -497,7 +497,7 @@ res09 = ""
 
 res10 = ""
 
-res12 = "Holy father, give the blessing."
+res12 = ""
 
 res13 = ""
 
@@ -505,7 +505,7 @@ res14 = ""
 
 res15 = ""
 
-res16 = "Everlasting Memory. Everlasting Memory. Everlasting Memory."
+res16 = ""
 
 res01p = ""
 
