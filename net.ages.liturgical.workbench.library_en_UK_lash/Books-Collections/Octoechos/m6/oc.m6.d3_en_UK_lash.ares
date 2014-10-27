@@ -561,7 +561,7 @@ octrMA.Kathisma1T.text = oc.m6.d5_en_UK_lash.ocMA.Kathisma13.text
 
 octrMA.Ode7Martyricon.mode = misc_en_UK_lash.Mode6
 octrMA.Ode7Martyricon.melody  = ""
-octrMA.Ode7Martyricon.text = ""
+octrMA.Ode7Martyricon.text = oc.m6.d4_en_UK_lash.ocMA.Kathisma32.text
 
 octrMA.Photogogic.mode = misc_en_UK_lash.Mode6
 octrMA.Photogogic.text = oc.m6.d2_en_UK_lash.octrMA.Photagogic.text
