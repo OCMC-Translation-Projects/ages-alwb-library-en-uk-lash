@@ -42,24 +42,24 @@ meVE.SticBoth.text = me.m01.d06_en_UK_lash.meVE.SticGlory.text
 
 meVE.Aposticha1.mode = misc_en_UK_lash.Mode4
 meVE.Aposticha1.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.name
-meVE.Aposticha1.text = ""
+meVE.Aposticha1.text = "‘See how I wear your image which I fashioned, humbling myself beyond understanding’, said the Lord, ‘What is strange then, my friend, if I bow low beneath your right hand, like one of your fellow servants, and stripped naked wrap myself in the waters? For I wish to clothe those who have been stripped naked with everlasting incorruption.’"
 
 meVE.ApostichaVerse2.text = ""
 
 meVE.Aposticha2.mode = misc_en_UK_lash.Mode4
 meVE.Aposticha2.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.name
-meVE.Aposticha2.text = ""
+meVE.Aposticha2.text = "‘You appeared in a body, but a womb received you and remained unconsumed by fire; for the furnace of old which did not burn the Youths was its image. While I who am grass to fire, how may I place my hands on you, Master, before whom tremble all things in heaven and on earth? Jesu, all-powerful, the Saviour of our souls’."
 
 meVE.ApostichaVerse3.text = ""
 
 meVE.Aposticha3.mode = misc_en_UK_lash.Mode4
 meVE.Aposticha3.melody = he.a.m4_en_UK_lash.EdokasSimeiosin.name
-meVE.Aposticha3.text = ""
+meVE.Aposticha3.text = "‘Wash me, who am wholly without stain, in the waters of Jordan’, said the Lord, ‘and human nature, stained by Adam’s transgression, when washed will become new. For when I am baptised, there is the rebirth of every human being through water and the Spirit’."
 
 meVE.AposGlory.poet = poets_en_UK_lash.Sykeotou
 meVE.AposGlory.mode = misc_en_UK_lash.Mode8
 meVE.AposGlory.melody = ""
-meVE.AposGlory.text = ""
+meVE.AposGlory.text = "We, the multitudes of monastics, honour you, our Father Theodosios, for through you we have learnt to walk the truly straight path. Blessed are you, for you became Christ’s slave and triumphed over the power of the foe, companion of Angels, colleague of the Venerable and the Righteous. With them intercede with the Lord to have mercy on our souls."
 
 meVE.AposBoth.poet = poets_en_UK_lash.IoannouMonachou
 meVE.AposBoth.mode = misc_en_UK_lash.Mode8
