@@ -8,9 +8,9 @@ KaiNyn = ""
 
 Allilouia1 = ""
 
-Allilouia3.text = ""
+Allilouia3.text = "Alleluia, Alleluia, Alleluia."
 
-Allilouia3Doxa.text = ""
+Allilouia3Doxa.text = "Alleluia. Alleluia. Alleluia. Glory to you, O God."
 
 DefteProskinisomen1 = ""
 
@@ -20,21 +20,21 @@ DefteProskinisomen3 = ""
 
 DiEfchonDespotou.text = ""
 
-DiEfchonPateron.text = ""
+DiEfchonPateron.text = "Through the prayers of our holy fathers, Lord Jesus Christ, our God, have mercy upon us."
 
-DoxaPatri.text = ""
+DoxaPatri.text = "Glory to the Father, and to the Son, and to the Holy Spirit."
 
 DoxaSoiChriste1 = ""
 
-DoxaSoiChriste2 = ""
+DoxaSoiChriste2 = "Glory to you, Christ God, our hope, glory to you."
 
-DoxaSoiKyrie = ""
+DoxaSoiKyrie = "Glory to you, O Lord, glory to you."
 
 DoxaSoiKyrieP = ""
 
 DoxaSoiOTheos1 = ""
 
-DoxaSoiOTheosImon.text = ""
+DoxaSoiOTheosImon.text = "Glory to you, our God, glory to you."
 
 DoxaTiAgiaAnastasei.text = ""
 
@@ -46,21 +46,21 @@ DoxaToPatri.text = ""
 
 EisToOnoma = ""
 
-EvlogitosOTheosImon.text = ""
+EvlogitosOTheosImon.text = "Blessed is our God."
 
 EvlogoumenPatera.text = ""
 
 IElpisImonKyrie = ""
 
-KaiNynKaiAei.text = ""
+KaiNynKaiAei.text = "Both now and for ever, and to the ages of ages. Amen."
 
 Kelefson = ""
 
-KelefsonDespota = ""
+KelefsonDespota = "Master, command."
 
 OTheosOiktirisai.text = ""
 
-PantoteNyn.text = ""
+PantoteNyn.text = "Always, now and for ever, and to the ages of ages. Amen."
 
 Evlogison = ""
 
@@ -68,7 +68,7 @@ EvlogisonP = ""
 
 EnOnomatiKyriou.text = ""
 
-EvlogisonThymiama.text = ""
+EvlogisonThymiama.text = "Master, bless the incense."
 
 AgieTouTheou.text = ""
 
@@ -82,9 +82,9 @@ OsiaTouTheou.text = ""
 
 EleisonMeOTheos.text = ""
 
-AxionEstin.text = ""
+AxionEstin.text = "It is truly right to call you blessed, who gave birth to God, ever-blessed and most pure, and Mother of our God. Greater in honour than the Cherubim and beyond compare more glorious than the Seraphim, without corruption you gave birth to God the Word; truly the Mother of God, we magnify you."
 
-AgiosOTheos.text = ""
+AgiosOTheos.text = "Holy God, Holy Strong, Holy Immortal, have mercy on us."
 
 EpouranieVasilef.text = ""
 
@@ -100,7 +100,7 @@ OEnPantiKairo.text = ""
 
 OOnEvlogitos.text = ""
 
-PanagiaTrias.text = ""
+PanagiaTrias.text = "All-holy Trinity, have mercy on us. Lord, cleanse us from our sins. Master, pardon our iniquities. Holy One, visit and heal our infirmities for your name’s sake."
 
 PaschaDialog1.text = ""
 PaschaDialog2.text = ""
@@ -109,9 +109,9 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = ""
+PaterImon.text = "Our Father, in heaven, may your name be sanctified, your kingdom come; your will be done on earth as in heaven. Give us today our daily bread, and forgive us our debts, as we forgive our debtors, and do not lead us into temptation, but deliver us from the evil one."
 
-Pistevo.text = ""
+Pistevo.text = "I believe in one God, * Father, Almighty,* Maker of heaven and earth,* and of all things visible and invisible. And in one Lord, Jesus Christ,* the only-begotten Son of God, * begotten from the Father * before all ages, * Light from Light, * true God from true God, * begotten * not made, * consubstantial with the Father,* through him all things were made. * For our sake and for our salvation * he came down from heaven, * and was incarnate from the Holy Spirit * and the Virgin Mary * and became man. * He was crucified also for us under Pontius Pilate,* and suffered and was buried; * he rose again on the third day, * in accordance with the Scriptures, * and ascended into heaven * and is seated at the right hand of the Father. * He is coming again in glory * to judge the living and the dead, * and his kingdom will have no end. And in the Holy Spirit, * the Lord, * the Giver of life, * who proceeds from the Father, * who together with Father and Son is worshipped * and together glorified; * who spoke through the Prophets. * In one, Holy, * Catholic and Apostolic Church. * I confess one Baptism * for the forgiveness of sins. * I await the resurrection of the dead * and the life of the age to come. Amen."
 
 SoulSaturday.text = ""
 
@@ -121,7 +121,7 @@ Thymiama.text = ""
 
 TinTimioteran.text = he.h.m6_en_UK_lash.TinTimioteran.text
 
-VasilefOuranie.text = ""
+VasilefOuranie.text = "Heavenly King, Advocate, Spirit of truth, present everywhere, filling all things, Treasury of blessings and Giver of life, come and dwell in us, cleanse us from every stain, and, O Good One, save our souls."
 
 trDiaTisTheotokou = ""
 
@@ -135,21 +135,21 @@ fePresveiaisTonAgionKaiSosonMe = ""
 
 fbPresveiaisKyrieTonAgion = ""
 
-enarxis01 = ""
+enarxis01 = "Blessed is our God, always, now and for ever, and to the ages of ages."
 
-enarxis02 = ""
+enarxis02 = "Blessed is the Kingdom of the Father, and of the Son, and of the Holy Spirit, now and for ever, and to the ages of ages."
 
 enarxis03 = ""
 
-pet00 = ""
+pet00 = "Let us pray to the Lord."
 
-pet01 = "" // Great Litany
+pet01 = "In peace, let us pray to the Lord." // Great Litany
 
-pet02 = ""
+pet02 = "For the peace from on high and for the salvation of our souls, let us pray to the Lord."
 
-pet03 = ""
+pet03 = "For the peace of the whole world, for the welfare of the holy Churches of God, and for the union of all, let us pray to the Lord."
 
-pet04 = ""
+pet04 = "For this holy house, and for those who enter it with faith, reverence and the fear of God, let us pray to the Lord."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -159,7 +159,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = ""
+pet06 = "For our Archbishop N, for the honoured order of presbyters, for the diaconate in Christ, for all the clergy and the people, let us pray to the Lord."
 
 pet06a = "" // supplement with client specific rank and name
 
@@ -173,29 +173,29 @@ pet07Sa = ""
 
 pet08 = ""
 
-pet08alt = ""
+pet08alt = "For this city, for every city, town and village, and for the faithful who dwell in them, let us pray to the Lord."
 
-pet09 = ""
+pet09 = "For favourable weather, an abundance of the fruits of the earth, and temperate seasons, let us pray to the Lord."
 
-pet10 = ""
+pet10 = "For those who travel by land, air or water, for the sick, the suffering, for those in captivity, and for their safety and salvation, let us pray to the Lord."
 
-pet11 = ""
+pet11 = "For our deliverance from all affliction, wrath, danger and constraint, let us pray to the Lord."
 
-pet12 = ""
+pet12 = "Help us, save us, have mercy on us, and keep us, O God, by your grace."
 
-pet13 = ""
+pet13 = "Commemorating our all-holy, pure, most blessed and glorious Lady, Mother of God and Ever-Virgin Mary, with all the Saints, let us entrust ourselves and one another and our whole life to Christ our God."
 
-pet14 = "" // Short Litany
+pet14 = "Again and again in peace, let us pray to the Lord." // Short Litany
 
-pet15 = "" // Ektenia
+pet15 = "Let us all say, with all our soul and with all our mind, let us say." // Ektenia
 
-pet16 = ""
+pet16 = "Lord Almighty, the God of our fathers, we pray you, hear and have mercy."
 
-pet17 = ""
+pet17 = "Have mercy on us, O God, according to your great mercy, we pray you, hear and have mercy."
 
 pet18 = ""
 
-pet19 = ""
+pet19 = "Also we pray for our Archbishop N."
 
 pet19a = ""
 
@@ -215,9 +215,9 @@ pet21p = ""
 
 pet22 = ""
 
-pet23 = ""
+pet23 = "Also we pray for those who bring offerings, those who care for the beauty of this holy and venerable house, for those who labour in its service, for those who sing, and for the people here present, who await your great and rich mercy."
 
-pet24 = "" // Complementary
+pet24 = "Let us complete our prayer to the Lord." // Complementary
 
 pet24v = ""
 
@@ -225,31 +225,31 @@ pet24m = ""
 
 pet25v = ""
 
-pet25m = ""
+pet25m = "That the whole day may be perfect, holy, peaceful and sinless, let us ask of the Lord."
 
-pet26 = ""
+pet26 = "An angel of peace, a faithful guide, a guardian of our souls and bodies, let us ask of the Lord."
 
-pet27 = ""
+pet27 = "Pardon and forgiveness of our sins and offences, let us ask of the Lord."
 
-pet28 = ""
+pet28 = "Those things that are good and profitable for our souls, and peace for the world, let us ask of the Lord."
 
-pet29 = ""
+pet29 = "That we may live out the rest of our days in peace and repentance, let us ask of the Lord."
 
-pet30 = ""
+pet30 = "A Christian end to our life, painless, unashamed and peaceful, and a good defence before the dread judgement seat of Christ, let us ask."
 
-pet31 = ""
+pet31 = "Peace to all."
 
-pet32 = ""
+pet32 = "Let us bow our heads to the Lord."
 
 pet33 = "" // Lity
 
 pet34 = ""
 
-pet35 = ""
+pet35 = "Hear us, O God, our Saviour, the hope of all the ends of the earth and of those far off at sea; and have pity, have pity, Master, on our sins, and have mercy on us."
 
-pet36 = ""
+pet36 = "make our supplication acceptable; grant us forgiveness of our offences; shelter us in the shelter of your wings; drive from us every foe and enemy; make our life peaceful. Lord, have mercy on us and on your world, and save our souls, for you are good and love mankind."
 
-pet37 = "" // Dismissal
+pet37 = "The blessing of the Lord and his mercy be upon you, by his grace and love for mankind, always, now and for ever, and to the ages of ages." // Dismissal
 
 petBap01 = ""
 
@@ -269,7 +269,7 @@ petCatechumens01 = ""
 
 petCatechumens02 = ""
 
-petCatechumens03 = "" 
+petCatechumens03 = ""
 
 petCatechumens04 = ""
 
@@ -285,7 +285,7 @@ petCatechumens09 = ""
 
 petCatechumens10 = ""
 
-petCatechumens11 = "" 
+petCatechumens11 = ""
 
 petCatechumens12 = ""
 
@@ -317,7 +317,7 @@ petCompline01 = ""
 
 petCompline02 = ""
 
-petCompline03 = "" //hierarch
+petCompline03 = "" // hierarch
 
 petCompline04 = ""
 
@@ -347,7 +347,7 @@ petConsecration01 = ""
 
 petConsecration02 = ""
 
-petFuneral01 = ""
+petFuneral01 = "Also we pray for the repose of the soul of the servant of God, N., who has fallen asleep, and that he/she may be pardoned every offence, both voluntary and involuntary."
 
 petFuneral02 = ""
 
@@ -367,7 +367,7 @@ petKneel07 = ""
 
 petKneel08 = ""
 
-petSouls01 = ""
+petSouls01 = "Also we pray for the repose of all devout and Orthodox Christians who have fallen asleep before us in hope of resurrection, Rulers, Patriarchs, Bishops, Priests, Deacons, Monks, Nuns, Parents, Grandparents, Great Grandparents and Ancestors, those from the beginning until the last, and that they may be pardoned every offence, both voluntary and involuntary."
 
 petSouls02 = ""
 
@@ -443,17 +443,17 @@ petWed14 = ""
 
 sup00 = ""
 
-sup00a = ""
+sup00a = "Most merciful Master, Lord Jesus Christ, our God,"
 
-sup01 = ""
+sup01 = "through the prayers of our all-pure Lady, Mother of God and Ever-Virgin Mary;"
 
-sup02 = ""
+sup02 = "by the power of the precious and life-giving Cross;"
 
-sup03 = ""
+sup03 = "through the protection of the honoured Bodiless Powers of heaven;"
 
-sup04 = ""
+sup04 = "through the intercessions of the honoured, glorious Prophet, Forerunner and Baptist John;"
 
-sup05 = ""
+sup05 = "of the holy, glorious and all-praised Apostles;"
 
 sup06 = ""
 
@@ -469,43 +469,43 @@ sup11 = ""
 
 sup12 = ""
 
-sup13 = ""
+sup13 = "(the Patron Saint of the Church),"
 
-sup14 = ""
+sup14 = "of the holy and righteous Forebears of God, Joachim and Anna,"
 
-sup15 = ""
+sup15 = "and of all your Saints:"
 
 sup99 = ""
 
-res01 = ""
+res01 = "Lord, have mercy."
 
-res02 = ""
+res02 = "Grant this, O Lord."
 
-res03 = ""
+res03 = "To you, O Lord."
 
-res04 = ""
+res04 = "Amen."
 
-res05 = ""
+res05 = "And to your spirit."
 
-res06 = ""
+res06 = "Lord, have mercy. Lord, have mercy. Lord, have mercy."
 
 res07 = ""
 
-res08 = ""
+res08 = "Master, give the blessing."
 
 res09 = ""
 
-res10 = ""
+res10 = "Amen, Amen, Amen."
 
-res12 = ""
+res12 = "Holy father, give the blessing."
 
-res13 = ""
+res13 = "Holy Master, bless."
 
 res14 = ""
 
 res15 = ""
 
-res16 = ""
+res16 = "Everlasting Memory."
 
 res01p = ""
 
@@ -537,27 +537,28 @@ res15p = ""
 
 res16p = ""
 
-exc01 = ""
+exc01 = "For to you belong all glory, honour and worship, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc01a = ""
 
-exc02 = ""
+exc02 = "For yours is the might, and yours is the kingdom, the power and the glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
-exc03 = ""
+exc03 = "For you, O God, are good and love mankind, and to you we give glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc04 = ""
 
 exc05 = ""
 
-exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
+exc05a = "For you, our God, are holy, and to you we give glory, Father, Son and Holy Spirit, now and for ever," // split exclamation for Trisagios Hymn at Liturgy
 
-exc05b = ""
+exc05b = "and to the ages of ages."
 
 exc06 = ""
 
 exc07 = ""
 
-exc07a = ""
+exc07a = "Through the grace and compassion and love towards mankind of your only-begotten Son, with whom you are blessed, together with your all-holy, good and life-giving Spirit, now and for ever, and to the ages of ages.
+"
 
 exc07b = ""
 
@@ -569,9 +570,9 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = ""
+exc11 = "For you, O God, are merciful, and love mankind, and to you we give glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
-exc11a = ""
+exc11a = "For you, O God, are merciful, and love mankind, and to you we give glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc12 = ""
 
@@ -585,19 +586,19 @@ exc16 = ""
 
 exc16a = ""
 
-exc17 = ""
+exc17 = "Wisdom."
 
-exc18 = ""
+exc18 = "Stand upright."
 
-exc19 = ""
+exc19 = "Let us attend."
 
-exc20 = ""
+exc20 = "For yours is the kingdom, the power and the glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc22 = ""
 
 exc23 = ""
 
-exc24 = ""
+exc24 = "For you are our sanctification, and to you we give glory, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 
 exc25 = ""
 
@@ -613,17 +614,17 @@ epi01a = "" // leave blank in Greek
 
 epi01b = ""
 
-epi02 = ""
+epi02 = "Peace to you."
 
 gos01 = ""
 
-gos02 = ""
+gos02 = "Let us listen to the Holy Gospel."
 
 gos03a = ""
 
 gos03b = ""
 
-gos04 = ""
+gos04 = "Peace to you."
 
 verse_Angels.text = ""
 
