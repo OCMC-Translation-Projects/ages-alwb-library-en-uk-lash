@@ -26,7 +26,7 @@ Intoned = ""
 
 OmitMagnificat = ""
 
-Or = ""
+Or = "Or"
 
 Read = ""
 
@@ -38,13 +38,13 @@ ThenSingSlowly = ""
 
 ThreeDayHoliday = ""
 
-Thrice = ""
+Thrice = "(three times)."
 
 TriodionSynaxarion = ""
 
-Twelve = ""
+Twelve = "(twelve times)."
 
-Twice = ""
+Twice = "(twice)."
 
 TwiceWithNoVerse = ""
 
