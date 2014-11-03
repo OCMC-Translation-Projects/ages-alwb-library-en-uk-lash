@@ -85,7 +85,7 @@ ocMA.Kathisma32.melody  = ""
 ocMA.Kathisma32.text = ""
 
 ocMA.Kathisma33.mode = misc_en_UK_lash.Mode8
-ocMA.Kathisma33.melody = ""
+ocMA.Kathisma33.melody = he.a.m8_en_UK_lash.TinSofianKaiLogon.name
 ocMA.Kathisma33.text = ""
 
 ocMA.C1Acrostic.text = ""
