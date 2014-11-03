@@ -2,7 +2,7 @@
 A_Resource_Whose_Name = he.a.m5_en_UK_lash
 
 ChairoisAskitikon.mode = misc_en_UK_lash.Mode5
-ChairoisAskitikon.name = "Hail, of ascetics."
+ChairoisAskitikon.name = ""
 ChairoisAskitikon.text = ""
 
 LampeiSimeron.mode = misc_en_UK_lash.Mode5
@@ -10,9 +10,9 @@ LampeiSimeron.name = ""
 LampeiSimeron.text = ""
 
 OsiePater.mode = misc_en_UK_lash.Mode5
-OsiePater.name = "Venerable Father."
+OsiePater.name = ""
 OsiePater.text = ""
 
 TonSynanarchonLogon.mode = misc_en_UK_lash.Mode5
-TonSynanarchonLogon.name = ""
+TonSynanarchonLogon.name = "Let us believers."
 TonSynanarchonLogon.text = ""
