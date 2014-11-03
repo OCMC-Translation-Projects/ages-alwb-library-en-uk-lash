@@ -25,10 +25,10 @@ hoTY.Key0501.text = ""
 // Liturgy Antiphons
 hoLI.Antiphon1.text = "At the prayers of the Mother of God, O Saviour, save us."
 
-hoLI.Antiphon21.text = "Son of God, risen from the dead, save us who sing to you: Alleluia!"
-hoLI.Antiphon2s.text = ""
+hoLI.Antiphon21.text = "Son of God, "
+hoLI.Antiphon2s.text = "risen from the dead,"
 hoLI.Antiphon2w.text = ""
-hoLI.Antiphon22.text = ""
+hoLI.Antiphon22.text = "save us who sing to you: Alleluia!"
 
 hoLI.EntranceHymn.text = "Come, let us worship and fall down before Christ." // in the template add parts of Antiphon 2
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
