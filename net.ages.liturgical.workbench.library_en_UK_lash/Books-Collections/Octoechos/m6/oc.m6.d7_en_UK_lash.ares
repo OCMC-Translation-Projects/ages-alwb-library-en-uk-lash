@@ -46,7 +46,7 @@ ocVE.AposTheotokion.text = ""
 
 ocVE.ApolTheotokionVM.mode = misc_en_UK_lash.Mode6
 ocVE.ApolTheotokionVM.melody  = ""
-ocVE.ApolTheotokionVM.text = oc.m6.d5_en_UK_lash.ocVE.ApolTheotokionVM.text
+ocVE.ApolTheotokionVM.text = oc.m6.d1_en_UK_lash.ocVE.ApolTheotokionVM.text
 
 ocMA.Alleluia.mode = misc_en_UK_lash.Mode6 // for mode-specific media e.g. Triodion
 ocMA.Alleluia.text = prayers_en_UK_lash.Allilouia3.text
