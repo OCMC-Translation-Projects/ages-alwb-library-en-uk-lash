@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = rubrical_en_UK_lash
 
-Aloud = ""
+Aloud = "(aloud)"
 
 ContinueBasilLiturgy = ""
 
@@ -18,7 +18,7 @@ HolidayFish = ""
 
 HolidayWineOil = ""
 
-InALowVoice = ""
+InALowVoice = "(in a low voice)"
 
 Inaudibly = ""
 
