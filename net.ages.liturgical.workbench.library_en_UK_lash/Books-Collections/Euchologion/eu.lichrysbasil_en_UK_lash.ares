@@ -18,7 +18,6 @@ euLI.Key0110.text = prayers_en_UK_lash.res04
 euLI.Key0200.text = "" // .text and not .title for the sake of media
 euLI.Key0201.title = ""
 euLI.Key0201.text = "Lord, our God, whose might is beyond compare and whose glory is beyond understanding, whose mercy is without measure and whose love for mankind beyond all telling, look upon us and upon this holy house, Master, according to your loving kindness, and bestow on us and on those who pray with us your acts of rich mercy and compassion."
-and whose glory is beyond understanding, whose mercy is without measure and whose love for mankind beyond all telling, look upon us and upon this holy house, Master, according to your loving kindness, and bestow on us and on those who pray with us your acts of rich mercy and compassion."
 
 // Part 03 Antiphon 2
 euLI.Key0301.title = ""
@@ -35,7 +34,6 @@ euLI.Key0503.text = "Blessed is the entrance of your holy place, always, now and
  
 // Part 06 Trisagios Hymn 
 euLI.Key0601.text = "Holy God, at rest in the holy place, hymned by the Seraphim with the thrice-holy song, glorified by the Cherubim and worshipped by every heavenly Power, out of non-existence you brought the universe into being and created humankind according to your image and likeness, adorning it with every gift of your grace. You give wisdom and understanding to those who ask, and you do not reject the sinner, but for our salvation you have established repentance. You have counted us, your humble and unworthy servants, worthy to stand at this time before the glory of your holy altar, and to offer you due worship and praise. Accept, Master, the thrice-holy hymn even from the mouth of us sinners, and visit us in your goodness. Pardon us every offence, voluntary and involuntary; sanctify our souls and bodies, and grant that we may worship you in holiness all the days of our life; at the prayers of the holy Mother of God and of all the Saints who have been well-pleasing to you in every age."
-the Seraphim with the thrice-holy song, glorified by the Cherubim and worshipped by every heavenly Power, out of non-existence you brought the universe into being and created humankind according to your image and likeness, adorning it with every gift of your grace. You give wisdom and understanding to those who ask, and you do not reject the sinner, but for our salvation you have established repentance. You have counted us, your humble and unworthy servants, worthy to stand at this time before the glory of your holy altar, and to offer you due worship and praise. Accept, Master, the thrice-holy hymn even from the mouth of us sinners, and visit us in your goodness. Pardon us every offence, voluntary and involuntary; sanctify our souls and bodies, and grant that we may worship you in holiness all the days of our life; at the prayers of the holy Mother of God and of all the Saints who have been well-pleasing to you in every age."
 euLI.Key0602.text = "Dynamis."
 euLI.Key0603.text = prayers_en_UK_lash.KelefsonDespota
 euLI.Key0604.text = ""
@@ -54,7 +52,6 @@ euLI.Key0705.text = prayers_en_UK_lash.gos04
 // Part 08 Ektenia
 euLI.Key0800.title = ""
 euLI.Key0801.text = "Lord, our God, accept this fervent supplication from your servants, and have mercy on us according to the multitude of your mercy; and send down your pity on us and on all your people, who await your rich mercy."
-from your servants, and have mercy on us according to the multitude of your mercy; and send down your pity on us and on all your people, who await your rich mercy."
 
 // Part 09 Catechumens
 euLI.Key0900.title = ""
@@ -75,7 +72,6 @@ euLI.Key0912.text = "As many as are believers."
 euLI.Key1000.title = ""
 euLI.Key1001.title = ""
 euLI.Key1001.text = "We thank you, Lord God of the powers of heaven, for counting us worthy to stand even now before your holy altar and humbly to seek your compassion for our sins and for those committed in ignorance by the people. Receive our supplication, O God; make us worthy to offer you prayers and entreaties and unbloody sacrifices for all your people. And enable us, whom you have appointed to this your ministry by the power of your Holy Spirit, to invoke you at every time and place without blame and without condemnation, with the witness of a pure conscience, so that you may hear us and be merciful to us in the abundance of your goodness."
-for counting us worthy to stand even now before your holy altar and humbly to seek your compassion for our sins and for those committed in ignorance by the people. Receive our supplication, O God; make us worthy to offer you prayers and entreaties and unbloody sacrifices for all your people. And enable us, whom you have appointed to this your ministry by the power of your Holy Spirit, to invoke you at every time and place without blame and without condemnation, with the witness of a pure conscience, so that you may hear us and be merciful to us in the abundance of your goodness."
 euLI.Key1002.title = ""
 euLI.Key1002.text = "Again and many times we fall down before you and pray you, who are good and the lover of mankind, that heeding our prayer you will cleanse our souls and bodies from every defilement of flesh and spirit, and will grant us to stand without guilt or condemnation before your holy altar. Give also to those who pray with us the grace of progress in right living, in faith and spiritual understanding. Grant that they may always worship you with fear and love, may partake of your holy mysteries without guilt or condemnation, and be counted worthy of your heavenly kingdom."
 euLI.Key1003.text = "That being always guarded by your might, we may give glory to you, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
@@ -133,9 +129,6 @@ euLI.Key1306.text = "We have them with the Lord."
 euLI.Key1307.text = "Let us give thanks to the Lord."
 euLI.Key1308.text = "It is right and fitting."
 euLI.Key1309.text = "It is right and fitting to hymn you, to bless you, to praise you, to give you thanks, to worship you in every place of your dominion; for you are God, ineffable, incomprehensible, invisible, inconceivable, ever existing, eternally the same; you and your only-begotten Son and your Holy Spirit. You brought us out of non-existence into being, and when we had fallen you raised us up again, and left nothing undone until you had brought us up to heaven and had granted us your Kingdom that is to come. For all these things we give thanks to you, and to your only-begotten Son and your Holy Spirit; for all the benefits that we have received, known and unknown, manifest and hidden. We thank you also for this liturgy which you have been pleased to accept from our hands, though there stand around you thousands of archangels and tens of thousands of angels, the Cherubim and the Seraphim, six-winged and many-eyed, soaring aloft upon their wings,"
-"
-to praise you, to give you thanks, to worship you in every place of your dominion; for you are God, ineffable, incomprehensible, invisible, inconceivable, ever existing, eternally the same; you and your only-begotten Son and your Holy Spirit. You brought us out of non-existence into being, and when we had fallen you raised us up again, and left nothing undone until you had brought us up to heaven and had granted us your Kingdom that is to come. For all these things we give thanks to you, and to your only-begotten Son and your Holy Spirit; for all the benefits that we have received, known and unknown, manifest and hidden. We thank you also for this liturgy which you have been pleased to accept from our hands, though there stand around you thousands of archangels and tens of thousands of angels, the Cherubim and the Seraphim, six-winged and many-eyed, soaring aloft upon their wings,
-"
 euLI.Key1309.basil.text = ""
 euLI.Key1310.text = "singing, crying, shouting the triumphal hymn, and saying:"
 euLI.Key1311.text = "Holy, holy, holy, Lord Sabaoth; heaven and earth are full of your glory. Hosanna in the highest. Blessed is he who comes in the name of the Lord. Hosanna in the highest."
@@ -183,8 +176,7 @@ euLI.Key1336.text = "And with your spirit."
 
 // Part 14 Before Communion
 euLI.Key1400.title = ""
-euLI.Key1401.text = "Having commemorated all the saints, again and"
-again in peace let us pray to the Lord."
+euLI.Key1401.text = "Having commemorated all the saints, again and again in peace let us pray to the Lord."
 euLI.Key1402.text = "For the precious gifts here set forth and sanctified, let us pray to the Lord."
 euLI.Key1403.text = "That our God, who loves mankind, having accepted them on his holy and immaterial Altar above the heavens, as a savour of spiritual fragrance, may send down upon us in return his divine grace and the gift of the Holy Spirit, let us pray."
 euLI.Key1404.text = "Having asked for the unity of the faith and the communion of the Holy Spirit, let us entrust ourselves and one another and our whole life to Christ, our God."
@@ -213,7 +205,6 @@ euLI.Key1510.text = "To me the unworthy Priest [and Monk] N is granted communion
 euLI.Key1511.text = ""
 euLI.Key1512.text = "Behold, I draw near to Christ, our immortal King and God. Grant me, Master, communion in the precious and all-holy Body of our Lord and God and Saviour, Jesus Christ, for forgiveness of my sins and everlasting life."
 euLI.Key1513.text = "To you, most devout Deacon [and Monk] N is granted communion in the precious and all-holy Body of our Lord and God and Saviour, Jesus Christ, for forgiveness of your sins and everlasting life."
-"
 euLI.Key1514.text = ""
 euLI.Key1515.text = "To me the unworthy Priest [and Monk] N is granted communion in the precious and all-holy Blood of our Lord and God and Saviour, Jesus Christ, for forgiveness of my sins and everlasting life."
 euLI.Key1516.text = "This has touched my lips: it will take away my iniquities and cleanse my sins."
@@ -226,7 +217,6 @@ euLI.Key1522.text = he.h.m1_en_UK_lash.FotizouFotizou.text
 euLI.Key1523.text = pe.d00P_en_UK_lash.pePA.Ode91.text
 euLI.Key1524.text = pe.d00P_en_UK_lash.pePA.Ode92.text
 euLI.Key1525.text = "Wash away, Lord, by your holy Blood the sins of your servants here remembered, through the prayers of the Mother of God and all your Saints. Amen."
-of your servants here remembered, through the prayers of the Mother of God and all your Saints. Amen."
 euLI.Key1526.text = "With fear of God, with faith and love, draw near."
 euLI.Key1527.title = ""
 euLI.Key1527.text = ""
@@ -252,7 +242,6 @@ euLI.Key1700.title = "DISMISSAL"
 euLI.Key1701.text = "Let us go forth in peace."
 euLI.Key1702.title = ""
 euLI.Key1702.text = "O Lord, you bless those who bless you, and sanctify those who have put their trust in you: save your people and bless your inheritance; protect the fullness of your Church; sanctify those who love the beauty of your house; glorify them in return by your divine power, and do not forsake us who hope in you. Give peace to your world, to your churches, to the priests, to our rulers, and to all your people. For every good gift and every perfect gift is from above, coming down from you, the Father of lights; and to you we give glory, thanksgiving and worship, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
-to our rulers, and to all your people. For every good gift and every perfect gift is from above, coming down from you, the Father of lights; and to you we give glory, thanksgiving and worship, Father, Son and Holy Spirit, now and for ever, and to the ages of ages."
 euLI.Key1702.basil.text = ""
 euLI.Key1703.text = "" // for media
 euLI.Key1704.text = "Christ, our God, the fulfilment of the Law and the Prophets, you have fulfilled all the Father’s dispensation. Fill our hearts with joy and gladness, always, now and for ever, and to the ages of ages. Amen."
