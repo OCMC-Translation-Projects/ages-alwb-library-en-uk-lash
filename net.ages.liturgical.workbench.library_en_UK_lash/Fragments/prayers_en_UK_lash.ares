@@ -60,7 +60,7 @@ KelefsonDespota = "Master, command."
 
 OTheosOiktirisai.text = ""
 
-PantoteNyn.text = "Always, now and for ever, and to the ages of ages. Amen."
+PantoteNyn.text = "Always, now and for ever, and to the ages of ages."
 
 Evlogison = ""
 
@@ -167,11 +167,11 @@ pet06b = ""
 
 pet07L = ""
 
-pet07S = "For our nation and all civil authorities, let us pray to the Lord." // Photini's version because in Lash it's for the British royal family--not applicable to Kenya
+pet07S = "For our nation, [the President, our Armed Forces] and all in civil authorities, let us pray to the Lord." // Photini's version because in Lash it's for the British royal family--not applicable to Kenya
 
-pet07Sa = "Also we pray for our nation and all civil authorities." // ditto
+pet07Sa = "Also we pray for our nation, [the President, our Armed Forces] and all in civil authorities." // ditto
 
-pet08 = ""
+pet08 = "For this city, for every city, town and village, and for the faithful who dwell in them, let us pray to the Lord."
 
 pet08alt = "For this city, for every city, town and village, and for the faithful who dwell in them, let us pray to the Lord."
 

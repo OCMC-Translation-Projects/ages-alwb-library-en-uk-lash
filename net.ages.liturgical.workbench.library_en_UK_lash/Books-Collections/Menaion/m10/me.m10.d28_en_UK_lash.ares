@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = me.m10.d28a_en_UK_lash
+A_Resource_Whose_Name = me.m10.d28_en_UK_lash 
 
 meDate.text = "October 28"
 meCommemoration.text = "We celebrate the commemoration of the Holy Protecting Veil of our Most Holy Lady, the Mother of God and Ever-Virgin Mary."
@@ -639,4 +639,4 @@ meLI.CommunionHymn.text = "I will take the cup of salvation, and I will call on 
 
 meMegalynarion.text = "You are the Protection of Orthodox Christians, O Virgin, protecting all the faithful. And so your people takes refuge in your Protection, and with faith magnifies your watchful care."
 
-meLI.Antiphon2.text = "Son of God, wonderful in the Saints, save us who sing to you: Alleluia!"
+alt1.meLI.Antiphon2.text = "Son of God, wonderful in the Saints, save us who sing to you: Alleluia!"

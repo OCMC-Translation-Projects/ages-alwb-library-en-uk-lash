@@ -16,9 +16,9 @@ cl.bishop1.name_c = "" // comma
 cl.bishop1.name_p = "N," // period
 cl.bishop1.fimi.text = ""
 
-cl.bishop2.rank = "" // for double commemoration or guest
-cl.bishop2.name_c = ""
-cl.bishop2.name_p = ""
+cl.bishop2.rank = "and" // for double commemoration or guest
+cl.bishop2.name_c = "and"
+cl.bishop2.name_p = "and"
 cl.bishop2.fimi.text = ""
 
 cl.localpatronsaint1.supplication = ""
@@ -60,7 +60,7 @@ cl.eu.lichrysbasil.R006 = ""
 cl.eu.lichrysbasil.R007 = ""
 cl.eu.lichrysbasil.R008 = ""
 cl.eu.lichrysbasil.R009 = "The Reader reads the title of the Apostle."
-cl.eu.lichrysbasil.R010 = "The Reader reads the Apostle."
+cl.eu.lichrysbasil.R010 = "The Reader reads the Apostle, after which:"
 cl.eu.lichrysbasil.R011 = "The reading is from the Holy Gospel according to N."
 cl.eu.lichrysbasil.R012 = ""
 cl.eu.lichrysbasil.R013 = ""
